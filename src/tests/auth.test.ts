@@ -1,8 +1,8 @@
 import { describe, expect, test } from "vitest";
 
 const person = {
-  isActive: false,
-  age: 32,
+  isActive: true,
+  age: 2,
 };
 
 describe("person", () => {
